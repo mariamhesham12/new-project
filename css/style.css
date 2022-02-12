@@ -1,0 +1,60 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.first{
+    background-image: url(amr-ibn-al-as-mosque-e1555021895227.jpg);
+    background-size: cover;
+    height: 400px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.first .second{
+    background-color: rgba(0, 0, 0, 0.5);
+    height: 100%;
+}
+.first{
+    color: white;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode';
+    text-align: center;
+}
+.first .second p{
+margin-top: 0;
+padding-top: 70px;
+}
+.third a{
+     text-decoration: none;
+     border: 1px solid #e6ab09;
+      padding: 5px 20px; 
+     border-radius: 10px;
+     color: #fff;
+     background-color: #e6ab09;
+     font: 50px;
+     width:70px;
+     margin: 20px auto; 
+     text-align: center;
+     display: block;  
+     margin: 20px 20px;
+}
+.fourth a{
+    text-decoration: none;
+     border: 1px solid #e6ab09;
+     padding: 5px 20px;
+     border-radius: 10px;
+     color: #e6ab09;
+     background-color: #fff;
+     font: 50px;
+     display:block;
+     width:70px;
+     margin: 20px auto;
+     text-align: center;
+}
+.container{
+    display:flex;
+    padding: 5px 490px;  
+}
+img{
+    width: 50px;
+    display: block;
+    margin: auto;
+}
